@@ -35,7 +35,7 @@ migrate -database 'postgres://user:123456@localhost:4444/nft_marketplace_test?ss
 migrate -database 'postgres://user:123456@localhost:4444/nft_marketplace_test?sslmode=disable' -source <path> -verbose down 
 
 ```
-<h2>.env Exmaple</h2>
+<h2>.env Example</h2>
 
 ```bash
 APP_HOST=127.0.0.1
