@@ -1,6 +1,16 @@
 <h1>NFT Marketplace</h1>
 NFT Bidding Platform. Users can mint, buy & sell NFTs.
 
+## Tech Stack
+
+- Go Programming Language
+- Clean Architecture (Hexagonal) & Microservices (DDD - Domain Driven Design)
+- gRPC & Apache Kafka
+- Fiber Framework
+- PostgreSQL & MongoDB 
+- JWT
+- Kubernetes
+- 
 <h2>Required</h2>
 <ul>
     <li><a href="https://go.dev/">Golang</a></li>
