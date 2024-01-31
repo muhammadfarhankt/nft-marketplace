@@ -1,4 +1,4 @@
-<h1>NFT Marketplace</h1>
+<h1>NFT Marketplace (Under development)</h1>
 NFT Bidding Platform. Users can mint, buy & sell NFTs.
 
 ## Tech Stack
