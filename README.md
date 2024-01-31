@@ -10,7 +10,8 @@ NFT Bidding Platform. Users can mint, buy & sell NFTs.
 - PostgreSQL & MongoDB 
 - JWT
 - Kubernetes
-- 
+
+  
 <h2>Required</h2>
 <ul>
     <li><a href="https://go.dev/">Golang</a></li>
