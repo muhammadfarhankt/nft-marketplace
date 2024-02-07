@@ -25,3 +25,6 @@ go.work
 
 /.vscode
 /.DS_Store
+
+tmp/main
+tmp/build-errors.log
