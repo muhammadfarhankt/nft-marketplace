@@ -3,7 +3,7 @@ package monitorHandlers
 import (
 	"github.com/gofiber/fiber/v2"
 
-0	"github.com/muhammadfarhankt/nft-marketplace/config"
+	"github.com/muhammadfarhankt/nft-marketplace/config"
 	"github.com/muhammadfarhankt/nft-marketplace/modules/entities"
 	"github.com/muhammadfarhankt/nft-marketplace/modules/monitor"
 )
