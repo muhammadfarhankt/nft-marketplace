@@ -13,10 +13,10 @@ import (
 type IUsersRepository interface {
 	InsertUser(req *users.UserRegisterReq, isAdmin bool) (*users.UserPassport, error)
 	FindOneUserByUsername(username string) (*users.UserCredentialCheck, error)
+	GetProfile(userId string) (*users.User, error)
 	InsertOAuth(req *users.UserPassport) error
 	FindOneOAuth(refreshToken string) (*users.Oauth, error)
 	UpdateOneOAuth(req *users.UserToken) error
-	GetProfile(userId string) (*users.User, error)
 	DeleteOauth(oauthId string) error
 }
 
