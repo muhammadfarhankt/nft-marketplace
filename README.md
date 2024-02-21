@@ -1,5 +1,6 @@
 <h1>NFT Marketplace (Under development)</h1>
-NFT Bidding Platform. Users can mint, buy & sell NFTs.
+NFT Bidding Platform. Users can mint, sell, buy & re-sell NFTs.
+
 
 ## Tech Stack
 
